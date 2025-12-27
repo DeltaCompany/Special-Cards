@@ -1,44 +1,37 @@
-[
-  {
-    "id": "starter",
-    "name": "Starter Pack",
-    "image": "starter.png",
-    "border": null,
-    "card_art": null,
-    "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
-    "cards": [
-      {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png", "maxUses":1},
-      {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png", "maxUses":1},
-      {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png", "maxUses":1},
-      {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png", "maxUses":1}
-    ]
-  },
-  {
-    "id": "chaos",
-    "name": "Chaos Pack",
-    "image": "chaos.png",
-    "border": null,
-    "card_art": null,
-    "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
-    "cards": [
-      {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png", "maxUses":1},
-      {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png", "maxUses":1},
-      {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png", "maxUses":1},
-      {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png", "maxUses":1}
-    ]
-  },
-  {
-    "id": "christmas",
-    "name": "Christmas Pack",
-    "image": "christmas.png",
-    "border": null,
-    "card_art": null,
-    "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
-    "cards": [
-      {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png", "maxUses":1},
-      {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png", "maxUses":1},
-      {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png", "maxUses":1},
-      {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png", "maxUses":1}
-    ]
-  }
-]
+{
+  "packs": [
+    {
+      "id": "starter",
+      "name": "Starter Pack",
+      "image": "starter.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
+      "cards": ["Game","Movie","One Favor","Ultimate Favor"]
+    },
+    {
+      "id": "chaos",
+      "name": "Chaos Pack",
+      "image": "chaos.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
+      "cards": ["Game","Movie","One Favor","Ultimate Favor"]
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas Pack",
+      "image": "christmas.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
+      "cards": ["Game","Movie","One Favor","Ultimate Favor"]
+    }
+  ],
+  "cards": [
+    {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png","maxUses":1},
+    {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png","maxUses":1},
+    {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png","maxUses":1},
+    {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png","maxUses":1}
+  ]
+}
