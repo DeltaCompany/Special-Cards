@@ -1,0 +1,13 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter Pack",
+    "image": "starter.png",
+    "cards": [
+      {"name":"Game","rarity":"common","image":"game.png"},
+      {"name":"Movie","rarity":"common","image":"movie.png"},
+      {"name":"One Favor","rarity":"rare","image":"favor.png"},
+      {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
+    ]
+  }
+]
