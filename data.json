@@ -3,33 +3,42 @@
     "id": "starter",
     "name": "Starter Pack",
     "image": "starter.png",
+    "border": null,
+    "card_art": null,
+    "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
     "cards": [
-      {"name":"Game","rarity":"common","image":"game.png"},
-      {"name":"Movie","rarity":"common","image":"movie.png"},
-      {"name":"One Favor","rarity":"rare","image":"favor.png"},
-      {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
+      {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png"},
+      {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png"},
+      {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png"},
+      {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png"}
     ]
   },
   {
     "id": "chaos",
     "name": "Chaos Pack",
     "image": "chaos.png",
+    "border": null,
+    "card_art": null,
+    "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
     "cards": [
-      {"name":"Game","rarity":"common","image":"game.png"},
-      {"name":"Movie","rarity":"common","image":"movie.png"},
-      {"name":"One Favor","rarity":"rare","image":"favor.png"},
-      {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
+      {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png"},
+      {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png"},
+      {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png"},
+      {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png"}
     ]
   },
   {
     "id": "christmas",
     "name": "Christmas Pack",
     "image": "christmas.png",
+    "border": null,
+    "card_art": null,
+    "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
     "cards": [
-      {"name":"Game","rarity":"common","image":"game.png"},
-      {"name":"Movie","rarity":"common","image":"movie.png"},
-      {"name":"One Favor","rarity":"rare","image":"favor.png"},
-      {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
+      {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png"},
+      {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png"},
+      {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png"},
+      {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png"}
     ]
   }
 ]
