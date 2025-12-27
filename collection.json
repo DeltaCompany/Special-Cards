@@ -1,4 +1,9 @@
 {
-  "packs": ["starter","chaos","christmas"],
-  "cards": []
+  "packs": ["chaos","christmas"],
+  "cards": [
+    {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png", "maxUses":1},
+    {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png", "maxUses":1},
+    {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png", "maxUses":1},
+    {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png", "maxUses":1}
+  ]
 }
