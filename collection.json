@@ -1,6 +1,6 @@
 {
   "packs": ["starter","chaos","christmas"],
   "cards": [
-    {"name":"Game","text": "You choose the game.","rarity":"common","image":"game.png", "maxUses":1},
+    {"name":"Game","uses":0}
   ]
 }
