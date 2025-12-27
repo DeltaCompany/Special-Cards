@@ -9,5 +9,27 @@
       {"name":"One Favor","rarity":"rare","image":"favor.png"},
       {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
     ]
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos Pack",
+    "image": "chaos.png",
+    "cards": [
+      {"name":"Game","rarity":"common","image":"game.png"},
+      {"name":"Movie","rarity":"common","image":"movie.png"},
+      {"name":"One Favor","rarity":"rare","image":"favor.png"},
+      {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
+    ]
+  },
+  {
+    "id": "christmas",
+    "name": "Christmas Pack",
+    "image": "christmas.png",
+    "cards": [
+      {"name":"Game","rarity":"common","image":"game.png"},
+      {"name":"Movie","rarity":"common","image":"movie.png"},
+      {"name":"One Favor","rarity":"rare","image":"favor.png"},
+      {"name":"Ultimate Favor","rarity":"mythic","image":"ultimate.png"}
+    ]
   }
 ]
