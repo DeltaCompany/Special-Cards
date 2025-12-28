@@ -6,8 +6,8 @@
       "image": "starter.png",
       "border": null,
       "card_art": null,
-      "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
-      "cards": ["Game","Movie","One Favor","Ultimate Favor"]
+      "rarityWeights": { "common": 65, "rare": 20, "epic": 10 "mythic": 5, "curse": 0 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
     },
     {
       "id": "chaos",
@@ -15,8 +15,8 @@
       "image": "chaos.png",
       "border": null,
       "card_art": null,
-      "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
-      "cards": ["Game","Movie","One Favor","Ultimate Favor"]
+      "rarityWeights": { "common": 25, "rare": 25, "epic": 25, "mythic": 25, "curse": 0 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
     },
     {
       "id": "christmas",
@@ -24,14 +24,82 @@
       "image": "christmas.png",
       "border": null,
       "card_art": null,
-      "rarityWeights": { "common": 70, "rare": 25, "mythic": 5 },
-      "cards": ["Game","Movie","One Favor","Ultimate Favor"]
+      "rarityWeights": { "common": 25, "rare": 50, "epic": 20, "mythic": 5, "curse": 0 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
+    },
+    {
+      "id": "common",
+      "name": "Common Pack",
+      "image": "mystery.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 100 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos","Unfinished"]
+    },
+    {
+      "id": "rare",
+      "name": "Rare Pack",
+      "image": "mystery.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "rare": 100 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos","Unfinished"]
+    },
+    {
+      "id": "epic",
+      "name": "Epic Pack",
+      "image": "mystery.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 0, "rare": 0, "epic": 100, "mythic": 0, "curse": 0 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos","Unfinished"]
+    },
+    {
+      "id": "mythic",
+      "name": "Mythic Pack",
+      "image": "mystery.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 0, "rare": 0, "epic": 0, "mythic": 100, "curse": 0 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos","Unfinished"]
+    },
+    {
+      "id": "curse",
+      "name": "Curse Pack",
+      "image": "mystery.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 0, "rare": 0, "epic": 0, "mythic": 0, "curse": 100 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos","Unfinished"]
+    },
+    {
+      "id": "all",
+      "name": "All Cards",
+      "image": "mystery.png",
+      "border": null,
+      "card_art": null,
+      "rarityWeights": { "common": 50, "rare": 20, "epic": 15, "mythic": 5, "curse": 5 },
+      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
     }
   ],
   "cards": [
-    {"name":"Game","text": "You choose the game.","rarity":"common","image":"default.png","maxUses":3},
-    {"name":"Movie","text": "You choose the game.","rarity":"common","image":"movie.png","maxUses":1},
-    {"name":"One Favor","text": "You choose the game.","rarity":"rare","image":"favor.png","maxUses":1},
-    {"name":"Ultimate Favor","text": "You choose the game.","rarity":"mythic","image":"ultimate.png","maxUses":1}
+    {"name":"But Yes","text": "That no becomes a yes! No objections, no loopholes. \n(Redeemable at any time.)","rarity":"mythic","image":"yes.png","maxUses":5},
+    
+    {"name":"BOPL Battle","text": "Pick the game we are playing! \n(Redeemable while in VC.)","rarity":"common","image":"game_pick.png","maxUses":3},
+    {"name":"Surely Not A Sentai","text": "We watch 3 episodes of... \n(Redeemable while in VC.)","rarity":"common","image":"show_pick.png","maxUses":3},
+    {"name":"Putting in a Reservation","text": "Pick a day that's not today, I'll be available for normal activities. \n(Redeemable at any time.)","rarity":"rare","image":"reservation.png","maxUses":1},
+    {"name":"Just Trust Me Bro","text": "I must watch/read a piece of media you swear by. \n(Redeemable at any time.)","rarity":"epic","image":"finish.png","maxUses":1},
+    
+    {"name":"Be Nice...","text": "Dinner's on me! \n(Redeemable while in car.)","rarity":"common","image":"dinner.png","maxUses":1},
+    {"name":"My Turn!","text": "I plan a hangout at least 3 days in advance: location, time, and activity included. \n(Redeemable at any time.)","rarity":"rare","image":"plan.png","maxUses":1},
+    {"name":"Pick the Show","text": "We watch 3 episodes of... Redeemable while in VC","rarity":"common","image":"show_pick.png","maxUses":3},
+    {"name":"Booked for The Day","text": "One whole day, we hangout and I help plan! Movie, Party, Games, Whatever! \n(Redeemable at any time.)","rarity":"epic","image":"event.png","maxUses":1},
+    
+    {"name":"The Spin of Many Gifts","text": "On draw, spin on the gift wheel 1d4 times!","rarity":"common","image":"gifts.png","maxUses":0},
+    {"name":"Ludwig Gambit","text": "Flip a coin and call it. If you call it correct, redeem a random card. \n(Redeemable at any time.)","rarity":"common","image":"coin.png","maxUses":99},
+    {"name":"Double or Nothing","text": "Flip a coin and call it. Win: Double Effect, Lose: No Effect \n(Redeemable when another card is redeemed.)","rarity":"rare","image":"double.png","maxUses":1},
+    {"name":"Pure Chaos","text": "Make a wheel with at least 6 activities. When redeemed spin the wheel and that's what we're doing. \n(Redeemable when reasonable.)","rarity":"epic","image":"random.png","maxUses":1},
+
+    {"name":"Unfinished","text": "We figure it out together?","rarity":"curse","image":"mystery.png","maxUses":1}
   ]
 }
