@@ -6,7 +6,7 @@
       "image": "starter.png",
       "border": null,
       "card_art": null,
-      "rarityWeights": { "common": 65, "rare": 20, "epic": 10 "mythic": 5, "curse": 0 },
+      "rarityWeights": { "common": 65, "rare": 20, "epic": 10, "mythic": 5, "curse": 0 },
       "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
     },
     {
