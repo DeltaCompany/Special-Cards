@@ -1,6 +1,8 @@
 {
   "packs": ["starter","chaos","christmas"],
   "cards": [
-    {"name":"Game","uses":0}
+    {"name":"Game","uses":1},
+    {"name":"Movie","uses":0},
+    {"name":"One Favor","uses":1}
   ]
 }
