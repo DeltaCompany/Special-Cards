@@ -1,6 +1,16 @@
 {
-  "packs": ["starter","chaos","christmas"],
+  "packs": ["rare","curse"],
   "cards": [
-    {"name":"But Yes","uses":0}
+    {"name":"But Yes","uses":0},
+    {"name":"Putting in a Reservation","uses":0},
+    {"name":"Surely Not A Sentai","uses":0},
+    {"name":"Surely Not A Sentai","uses":0},
+    {"name":"The Spin of Many Gifts","uses":0},
+    {"name":"Ludwig Gambit","uses":0},
+    {"name":"Pure Chaos","uses":0},
+    {"name":"My Turn!","uses":0},
+    {"name":"My Turn!","uses":0},
+    {"name":"Be Nice...","uses":0},
+    {"name":"BOPL Battle","uses":2}
   ]
 }
