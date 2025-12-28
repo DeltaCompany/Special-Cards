@@ -7,7 +7,7 @@
       "border": null,
       "card_art": null,
       "rarityWeights": { "common": 65, "rare": 20, "epic": 10, "mythic": 5, "curse": 0 },
-      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
+      "cards": ["BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro"]
     },
     {
       "id": "chaos",
@@ -16,7 +16,7 @@
       "border": null,
       "card_art": null,
       "rarityWeights": { "common": 25, "rare": 25, "epic": 25, "mythic": 25, "curse": 0 },
-      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
+      "cards": ["The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
     },
     {
       "id": "christmas",
@@ -25,7 +25,7 @@
       "border": null,
       "card_art": null,
       "rarityWeights": { "common": 25, "rare": 50, "epic": 20, "mythic": 5, "curse": 0 },
-      "cards": ["But Yes","BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro","Be Nice...","My Turn!","Pick the Show","Booked for The Day","The Spin of Many Gifts","Ludwig Gambit","Double or Nothing","Pure Chaos"]
+      "cards": ["Be Nice...","My Turn!","Pick the Show","Booked for The Day"]
     },
     {
       "id": "common",
@@ -92,7 +92,7 @@
     
     {"name":"Be Nice...","text": "Dinner's on me! \n(Redeemable while in car.)","rarity":"common","image":"dinner.png","maxUses":1},
     {"name":"My Turn!","text": "I plan a hangout at least 3 days in advance: location, time, and activity included. \n(Redeemable at any time.)","rarity":"rare","image":"plan.png","maxUses":1},
-    {"name":"Pick the Show","text": "We watch 3 episodes of... Redeemable while in VC","rarity":"common","image":"show_pick.png","maxUses":3},
+    {"name":"Recommended","text": "I must start a new series of your choosing. \n(Redeemable at any time.)","rarity":"rare","image":"recomend.png","maxUses":3},
     {"name":"Booked for The Day","text": "One whole day, we hangout and I help plan! Movie, Party, Games, Whatever! \n(Redeemable at any time.)","rarity":"epic","image":"event.png","maxUses":1},
     
     {"name":"The Spin of Many Gifts","text": "On draw, spin on the gift wheel 1d4 times!","rarity":"common","image":"gifts.png","maxUses":0},
