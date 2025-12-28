@@ -6,7 +6,7 @@
       "image": "starter.png",
       "border": null,
       "card_art": null,
-      "rarityWeights": { "common": 65, "rare": 20, "epic": 10, "mythic": 5, "curse": 0 },
+      "rarityWeights": { "common": 50, "rare": 25, "epic": 20, "mythic": 5, "curse": 0 },
       "cards": ["BOPL Battle","Surely Not A Sentai","Putting in a Reservation","Just Trust Me Bro"]
     },
     {
