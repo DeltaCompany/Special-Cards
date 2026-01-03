@@ -2,6 +2,8 @@
   "packs": ["christmas","chaos"],
   "cards": [
     {"name":"But Yes","uses":1},
+    {"name":"Recommended","uses":0},
+    {"name":"Booked for The Day","uses":0},
     {"name":"Putting in a Reservation","uses":0},
     {"name":"Putting in a Reservation","uses":0},
     {"name":"Surely Not A Sentai","uses":0},
@@ -11,8 +13,9 @@
     {"name":"Pure Chaos","uses":0},
     {"name":"My Turn!","uses":0},
     {"name":"My Turn!","uses":0},
-    {"name":"Be Nice...","uses":0},
-    {"name":"BOPL Battle","uses":2},
+    {"name":"My Turn!","uses":0},
+    {"name":"Be Nice...","uses":1},
+    {"name":"BOPL Battle","uses":3},
     {"name":"Unfinished","uses":1}
   ]
 }
