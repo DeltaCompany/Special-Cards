@@ -1,5 +1,5 @@
 {
-  "packs": ["christmas","chaos"],
+  "packs": ["chaos"],
   "cards": [
     {"name":"But Yes","uses":1},
     {"name":"Recommended","uses":0},
