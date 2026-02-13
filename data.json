@@ -25,7 +25,7 @@
       "border": null,
       "card_art": null,
       "rarityWeights": { "common": 25, "rare": 50, "epic": 20, "mythic": 5, "curse": 0 },
-      "cards": ["Be Nice...","My Turn!","Pick the Show","Booked for The Day"]
+      "cards": ["Be Nice...","My Turn!","Recommended","Booked for The Day"]
     },
     {
       "id": "common",
